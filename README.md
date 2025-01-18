@@ -1,14 +1,14 @@
-# Terminal Animation Collection
+# Why en dash or em dash when you can pulse dash?
 
-A collection of terminal-based animations and loading indicators in various programming languages. Each implementation provides customizable, smooth animations that can be used for loading screens, progress indicators, or just for fun.
+A collection of animations and loading indicators in various programming languages. Each implementation provides customizable, smooth animations that can be used for loading screens, progress indicators, or just for fun.
 
 ## Current Implementations
 
 ### Bash Pulse Dash (`bash/pulse_dash.sh`)
 
-A customizable animated dash that pulses through different dash characters (-, –, —).
+Documentation: [bash/pulse_dash.md](bash/pulse_dash.md)
 
-![Pulse Dash Basic Demo](assets/pulse-dash-basic.gif)
+A customizable animated dash that pulses through different dash characters (-, –, —).
 
 #### Features
 - Multiple animation styles:
